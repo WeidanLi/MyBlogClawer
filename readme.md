@@ -230,6 +230,10 @@ public class BlogDetailPipeline implements Pipeline<BlogDetailVo> {
 
 开发也比较简单，基本就是:页面VO匹配URL -> 页面元素VO -> 继续页面VO匹配 -> ... 这个过程无限循环。
 
+GitHub: https://github.com/WeidanLi/MyBlogClawer
+MyBlog: http://c.liweidan.cn/
+公众号: 
+![](http://oy1sy8x27.bkt.clouddn.com/common/qrcode_for_gh_e19175bf4802_258.jpg)
 
 
 
